@@ -23,8 +23,8 @@ Sign up to Quix. It's free. No credit card required and we give you some free cr
 
 ## Create your workspace and topics
 
-(Create a workspace)[https://quix.ai/docs/guides/how-to/manage-workspaces/create.html] for your creation!
-(Create 3 topics)[https://quix.ai/docs/guides/how-to/manage-topics/create.html]
+[Create a workspace](https://quix.ai/docs/guides/how-to/manage-workspaces/create.html) for your creation!
+[Create 3 topics](https://quix.ai/docs/guides/how-to/manage-topics/create.html)
 
 These needs to be called:
 - gamedata
